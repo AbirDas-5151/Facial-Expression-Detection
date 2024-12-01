@@ -102,8 +102,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📧 **Contact**
 For any questions or feedback, feel free to contact me at:
-- **Email**: yourname@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: addyabir111@gmail.com.com
+- **GitHub**: [AbirDas-5151](https://github.com/AbirDas-5151)
 
 ---
 
